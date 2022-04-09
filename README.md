@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @feiliangyu
 - 👀 I’m interested in front_end
 - 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on toC project
+- 💞️ I’m looking to collaborate on data project
 - 📫 How to reach me ___ zaiaifreedom@163.com
 
 <!---
